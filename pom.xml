@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>testproject</groupId>
-  <artifactId>ProjectWebNewnew</artifactId>
+  <artifactId>ProjectWeb</artifactId>
   <packaging>war</packaging>
   <version>2.0</version>
-  <name>ProjectWeb Maven Webapp</name>
+  <name>ProjectWeb</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops958</finalName>
+    <finalName>devops66</finalName>
   </build>
 </project>
