@@ -2,9 +2,10 @@ FROM centos
 MAINTAINER devops2018 <devopstraining2015@gmail.com>
 #RUN apt-get update -y
 RUN yum install git -y
-RUN git config --global user.name "DevOps Training"
-RUN git config --global user.email "prasad@gmail.com"
-RUN cd /opt && git clone https://github.com/polarapu/batch-63.git
+RUN docker images 
+#RUN git config --global user.name "DevOps Training"
+#RUN git config --global user.email "prasad@gmail.com"
+#RUN cd /opt && git clone https://github.com/polarapu/batch-63.git
 #RUN yum install java -y
 #RUN yum install maven -y
 #RUN yum install wget -y
